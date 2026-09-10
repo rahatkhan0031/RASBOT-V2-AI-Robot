@@ -23,3 +23,8 @@ The script uses:
 
 ```python
 from McLumk_Wheel_Sports import *
+
+## Attribution
+
+The low-level RASBOT V2 motor-control functions are provided by the Yahboom driver library.  
+This repository contains my integration, testing, and application-level Python scripts built around the RASBOT V2 platform.
